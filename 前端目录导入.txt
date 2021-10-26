@@ -1,0 +1,3 @@
+数据库guli_mall库中执行sys_menus.sql文件更新sys_menu表数据
+
+注意后端返回的参数名要和接口文档对应 data、list等不能随便取，否则前端其他组件可能得不到返回数据
